@@ -1,4 +1,5 @@
-# Actividad-1-Estrcutura-de-Datos
-# El programa consta de 4 clases principales (Node, LinkedList, DataTypeExamples y Main). Para ejecutarlo correctamente, debes run el archivo Main.java (los otros archivos deben estar en la misma carpeta). 
-# Si al imprimir listas circulares no ves el símbolo '↻', es porque tu terminal no soporta Unicode, cambia la codificación a UTF-8 (en Windows usa chcp 65001, en Linux/macOS selecciona una fuente compatible como 'DejaVu Sans Mono'). 
-# Asegurese de compilar primero (javac Main.java) y luego ejecutar (java Main)."
+# Actividad-2-Estrcutura-de-Datos
+# Primero asegúrate de tener todos los archivos Java en la misma carpeta. 
+# Abre una terminal o línea de comandos, navega hasta esa carpeta y compila todos los archivos con el comando javac *.java. 
+# Luego ejecuta el programa con java Main, si usas un IDE como Eclipse o IntelliJ, simplemente abre la carpeta como proyecto y ejecuta la clase Main.java. 
+# El programa tiene manejo robusto de errores, por lo que si ingresas algo incorrecto, te pedirá automáticamente que lo intentes de nuevo hasta que introduzcas una entrada válida.
